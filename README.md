@@ -37,6 +37,19 @@ A Machine Learning web application built using Streamlit that predicts whether a
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### EDA Analysis
+
+![EDA](screenshots/eda.png)
+
+### Prediction Result
+
+![Prediction](screenshots/prediction.png)
 
 ## Author
 
